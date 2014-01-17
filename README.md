@@ -33,3 +33,6 @@ git commit -m "hw1 using git"
 2.
 git log -p -3
 
+Part (d)
+All three files will be committed.
+
