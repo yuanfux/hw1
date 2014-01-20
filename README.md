@@ -12,7 +12,7 @@ Problem 1 (Course Policies)
 
 Part (a)
 
-1,2,5
+1,3,5
 
 Part (b)
 
