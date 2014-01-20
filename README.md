@@ -7,6 +7,7 @@ Prof. Mark Redekopp
 
 
 Problem 1 (Course Policies)
+
 Part (a)
 1,2,5
 
