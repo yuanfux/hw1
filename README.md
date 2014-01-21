@@ -38,7 +38,7 @@ Part (a)
 
 Part (b)
 
-1. 
+1.
 
 git add hw1q2b.cpp
 git commit -m "hw1 using git"
@@ -49,5 +49,5 @@ git log -p -3
 
 Part (d)
 
-All three files will be committed.
+git will ask for the commit message
 
